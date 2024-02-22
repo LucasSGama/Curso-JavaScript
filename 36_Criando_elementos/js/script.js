@@ -2,6 +2,7 @@
 var novoParagrafo = document.createElement("p");
 
 var texto = document.createTextNode("Este é o conteúdo do paragráfo");
+var texto2 = "Este é o conteúdo do paragráfo"
 
 novoParagrafo.appendChild(texto);
 

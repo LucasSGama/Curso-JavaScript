@@ -5,7 +5,7 @@ setTimeout(function() {
 
     console.log("testando o setTimetout");
 
-}, 2000); // 1 segundo
+}, 2000); // 2 segundo
 
 console.log("Depois do setTimeout");
 

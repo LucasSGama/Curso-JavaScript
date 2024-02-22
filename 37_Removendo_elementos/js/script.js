@@ -10,3 +10,4 @@ container.removeChild(p);
 var subtitle = document.querySelector(".subtitle");
 
 subtitle.remove();
+
